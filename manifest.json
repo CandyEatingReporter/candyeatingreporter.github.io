@@ -1,0 +1,16 @@
+{
+  "name": "Digital Humanities Portfolio",
+  "short_name": "DH Portfolio",
+  "description": "A digital humanities academic portfolio with cyberpunk aesthetics",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#ff0080",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16 32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
